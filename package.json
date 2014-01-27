@@ -1,0 +1,23 @@
+{
+  "name": "crunch2",
+  "version": "2.0.1",
+  "description": "Crunch 2! Is it a code editor? Is it a code compiler? ANSWER: YES.",
+  "main": "html/main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Crunch/Crunch-2.git"
+  },
+  "author": "http://crunchapp.net",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/Crunch/Crunch-2/issues"
+  },
+  "homepage": "https://github.com/Crunch/Crunch-2",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-node-webkit-builder": "~0.1.16"
+  }
+}
